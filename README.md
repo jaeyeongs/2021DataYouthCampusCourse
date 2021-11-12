@@ -1,6 +1,6 @@
 # 2021 데이터청년캠퍼스 K-data
 
-파이썬 기반 빅데이터 분석을 통한 비즈니스 인사이트 역량 제고 과정
+파이썬 기반 빅데이터 분석을 통한 비즈니스 인사이트 역량 제고 과정 : 2021.06.24 ~ 2021.09.10
 
 - 수료증
 
@@ -11,6 +11,6 @@
 
 ### (1) Base for Python
 ### (2) Data Collection & Preprocessing
-### (3) Text Analysis
+### (3) NLP
 ### (4) Machine Learning
 ### (5) Deep Learning
