@@ -10,7 +10,11 @@
 ## Python을 활용한 데이터 분석 실습
 
 ### (1) Base for Python
+
 ### (2) Data Collection & Preprocessing
+
 ### (3) NLP
+
 ### (4) Machine Learning
+
 ### (5) Deep Learning
