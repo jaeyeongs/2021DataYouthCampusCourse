@@ -6,7 +6,8 @@
 
 - 수료증
 
-![image](https://user-images.githubusercontent.com/87981867/140878034-5ac87997-aa47-490a-abb3-62d5469c096f.png)
+![Inked140878034-5ac87997-aa47-490a-abb3-62d5469c096f](https://user-images.githubusercontent.com/87981867/143873496-97c9ae1e-0d87-4dc9-b6c0-cae01524ec7c.jpg)
+
 
 
 ## Python을 활용한 데이터 분석 실습
